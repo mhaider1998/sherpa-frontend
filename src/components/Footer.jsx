@@ -10,8 +10,9 @@ export function Footer() {
                 <div>
                   <h4>Address</h4>
                   <p>
-                    A108 Adam Street <br />
-                    New York, NY 535022 - US
+                  Harjutori 2 <br />
+                  Sornainen <br />
+                  Helsinki, 00500 - Finland
                     <br />
                   </p>
                 </div>
@@ -22,9 +23,9 @@ export function Footer() {
                 <div>
                   <h4>Reservations</h4>
                   <p>
-                    <strong>Phone:</strong> +1 5589 55488 55
+                    <strong>Phone:</strong> (+358) 53 283 233
                     <br />
-                    <strong>Email:</strong> info@example.com
+                    <strong>Email:</strong> sherpafoodandbar@gmail.com
                     <br />
                   </p>
                 </div>
@@ -37,7 +38,7 @@ export function Footer() {
                   <p>
                     <strong>Mon-Sat: 11AM</strong> - 23PM
                     <br />
-                    Sunday: Closed
+                    Sunday: 12.00-23.59
                   </p>
                 </div>
               </div>
@@ -66,7 +67,7 @@ export function Footer() {
             <div class="copyright">
               &copy; Copyright{" "}
               <strong>
-                <span>SherpaFood</span>
+                <span>Sherpa Food and Bar</span>
               </strong>
               . All Rights Reserved
             </div>

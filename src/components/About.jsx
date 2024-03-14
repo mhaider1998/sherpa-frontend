@@ -29,30 +29,22 @@ export function About() {
             >
               <div class="content ps-0 ps-lg-5">
                 <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Sherpa Food and Bar takes you on a gastronomic journey to the heart of the Himalayas, offering a unique blend of Sherpa cuisine and a cozy bar atmosphere.
+                  <br/> Nestled in [Location], this establishment captures the spirit of Sherpa culture, combining traditional flavors with a modern touch.
                 </p>
                 <ul>
                   <li>
-                    <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat.
+                    <i class="bi bi-check2-all"></i> You can host your birthday Party in our restaurant
                   </li>
                   <li>
-                    <i class="bi bi-check2-all"></i> Duis aute irure dolor in
-                    reprehenderit in voluptate velit.
+                    <i class="bi bi-check2-all"></i> You can have you holiday party with us in a traditional touch.
                   </li>
                   <li>
-                    <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat. Duis aute irure dolor in
-                    reprehenderit in voluptate trideta storacalaperda mastiro
-                    dolore eu fugiat nulla pariatur.
+                    <i class="bi bi-check2-all"></i> we can arrage various types of event for 40 people.
                   </li>
                 </ul>
                 <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                  aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                  occaecat cupidatat non proident
+                Break from the ordinary and escape to Sherpa Food & Restaurant, your personal slice of paradise! Pasta Cosi and Momos are open seven days a week, for in- person service as well as takeout and delivery.
                 </p>
               </div>
             </div>
